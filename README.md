@@ -4,7 +4,7 @@ The project aims to show the most popular Google searches in Ukraine in 2020. Qu
 
 ## The result
 
-Please follow this link to see the results (as of now, there are also visualizations for 2021 and 2023): * [Tableau Public](https://public.tableau.com/app/profile/viktoriia.yuzkiv/viz/GoogleTrendsinUkraine/GoogleTrends2022).
+Please follow this link to see the results (as of now, there are also visualizations for 2021 and 2023): [Tableau Public](https://public.tableau.com/app/profile/viktoriia.yuzkiv/viz/GoogleTrendsinUkraine/GoogleTrends2022).
 
 
 ## Technologies used
